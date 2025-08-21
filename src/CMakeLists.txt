@@ -1,5 +1,5 @@
 add_library(${PROJECT_NAME} STATIC
-        BLGUI.cpp
+        Interface.cpp
 )
 
 # Namespace-Alias
